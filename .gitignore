@@ -5,7 +5,7 @@
 /.pnp
 .pnp.js
 
-/admin/admin/setting.js
+/admin/setting.js
 
 # testing
 /coverage
